@@ -10,9 +10,38 @@ Comandos:
 
 "-stop": para detener al bot.
 
+
 --Ojo--
 Este bot es muy basico y esta diseñado para solo escuchar musica mientras realizas alguna actividad con tus amigos.
+-- Diseñado para ser desplegado en Replit.
+![image](https://github.com/Laliukz/DiscordBMusic/assets/106115714/184c4646-a38c-463f-a710-5fedf15ad494)
+
+
 En futuras actualizaciones se agregaran mas funciones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bot Hecho por --Laliukz
 
