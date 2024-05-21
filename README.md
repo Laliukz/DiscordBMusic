@@ -14,8 +14,20 @@ Comandos:
 --Ojo--
 Este bot es muy basico y esta diseñado para solo escuchar musica mientras realizas alguna actividad con tus amigos.
 -- Diseñado para ser desplegado en Replit.
+//ir a seccion de Secrets en Replit y crear uno nuevo con el nombre que quieres.
+
+![image](https://github.com/Laliukz/DiscordBMusic/assets/106115714/262c6f3a-1062-4351-bb12-dba00b1f749e)
+
+
+//ahi agrega el token de tu bot.
+
 ![image](https://github.com/Laliukz/DiscordBMusic/assets/106115714/184c4646-a38c-463f-a710-5fedf15ad494)
 
+Remplaza esta linea de codigo con el tuyo.
+
+![image](https://github.com/Laliukz/DiscordBMusic/assets/106115714/1be67c34-9a63-4211-8315-dc6869c17b3a)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 En futuras actualizaciones se agregaran mas funciones.
 
